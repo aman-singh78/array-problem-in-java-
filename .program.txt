@@ -1,5 +1,5 @@
+//basic problem of target sum
 import java.util.Scanner;
-//basic problems on java
 public class input{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
